@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS共享</string>
+    <string name="stop">停止</string>
+    <string name="start">启动</string>
+    <string name="open_mock_location_title">开启模拟位置</string>
+    <string name="open_mock_location_content">请确保链接服务端热点，并且在开发者选项中选择模拟位置信息应用为：%s</string>
+    <string name="ok">确定</string>
+    <string name="port">端口</string>
+    <string name="cancel">取消</string>
+    <string name="client">客户端</string>
+    <string name="server">服务端</string>
+    <string name="automatic_ip">自动连接</string>
+    <string name="static_ip">静态连接</string>
+    <string name="setting_port_content">请保持本机端口和接收方端口一致</string>
+    <string name="setting_port_title">设置端口</string>
+    <string name="location_server">定位服务</string>
+    <string name="gps_permission">GPS权限</string>
+    <string name="connect_wifi">请连接Wi-Fi热点</string>
+    <string name="setting_network">设置网络</string>
+    <string name="engine_starting">引擎启动中…</string>
+    <string name="text_field_label">IP地址和端口</string>
+    <string name="lat_lon">经纬(Lat/Lon)</string>
+    <string name="latest_time">GPS 时间</string>
+    <string name="accuracy">精度(m)</string>
+    <string name="bearing">方位</string>
+    <string name="speed_km">速度(km/h)</string>
+    <string name="receive_error">接收数据错误</string>
+    <string name="mock_location_working">模拟位置服务工作中</string>
+    <string name="mock_location_disable">模拟位置服务不可用</string>
+    <string name="client_stopped">TGPS 客户端已停止</string>
+    <string name="location_loading">等待…</string>
+    <string name="client_started">TGPS 客户端已启动</string>
+    <string name="socket_creating_error">套接字初始化错误</string>
+    <string name="server_stopped">TGPS 服务已停止</string>
+    <string name="server_started">TGPS 服务已启动</string>
+    <string name="providers_disable">没有可用的位置提供器</string>
+    <string name="gps_scanning">GPS 搜星中…</string>
+</resources>
